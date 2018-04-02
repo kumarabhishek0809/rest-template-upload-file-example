@@ -1,0 +1,4 @@
+com\logicbig\example\server\MyWebConfig.class
+com\logicbig\example\server\FileUploadController.class
+com\logicbig\example\server\MyWebInitializer.class
+com\logicbig\example\client\UploadClient.class
